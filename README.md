@@ -14,9 +14,11 @@ Re:Voir is an experimental film distribution company that wants to create subscr
 
 ## This repository: 
 
-The Python Notebook `notebook.ipynb` contains the analysis of creating a collaborative filtering algorithm using Machine Learning algorithms. More details in there.
+The repository contains the Python Notebook `notebook.ipynb` used for development. It contains the analysis and exploration a collaborative filtering algorithms using Machine Learning. The implementation of the algorithm is then shipped to Re:Voir who choses what to do with the developped algorithm.
 
 
 ## Link to Article
+
+Read the thesis here:
 
 <img src="qrcode.png" width="100" height="100" />
